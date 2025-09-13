@@ -1,6 +1,6 @@
 # Ameer Ali Jamali Website
 
-### [🌐 Live Demo](https://ameer-ali-jamali.vercel.app/)
+### [🌐 Live Demo](https://ameer-ali-jamali.netlify.app/)
 
 ## Description
 
