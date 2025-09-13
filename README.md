@@ -1,7 +1,3 @@
-Absolutely! Here’s a **professional, clean, and full-featured README** for your website that highlights it as **your own project**, showcases your features, and provides instructions clearly:
-
----
-
 # Ameer Ali Jamali Website
 
 ### [🌐 Live Demo](https://ameer-ali-jamali.vercel.app/)
